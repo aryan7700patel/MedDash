@@ -1,0 +1,5 @@
+
+{
+  "name": "MedDash - Splash & Login",
+  "description": "A splash screen with a logo animation that transitions into a login page with options for phone OTP authentication or continuing as a guest."
+}
